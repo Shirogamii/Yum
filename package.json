@@ -1,0 +1,43 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "Un simple bot de discord",
+  "main": "index.js",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shirogamii/Yum.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "synicalsyntax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shirogamii/Yum"
+  },
+  "homepage": "https://github.com/Shirogamii/Yum/issues",
+    "animesub-api": "^0.9.0",
+    "bufferutil": "^4.0.0",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "get-youtube-id": "^1.0.0",
+    "libsodium-wrappers": "^0.7.3",
+    "mal-scraper": "^2.4.5",
+    "myanimelists": "^1.0.1",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.1.1",
+    "urban.js": "^2.4.3",
+    "uws": "^99.0.0",
+    "ytdl-core": "^0.28.3"
+  }
+}
